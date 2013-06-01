@@ -2,7 +2,7 @@
 /*
 Plugin Name:	Display Post Number
 Plugin URI:		http://wpcos.com/
-Description:	サイトのページで表示する記事件数を設定するプラグイン
+Description:	表示件数を設定するプラグイン
 Version:		0.2
 Author:			wpcos
 Author URI:		http://wpcos.com/
